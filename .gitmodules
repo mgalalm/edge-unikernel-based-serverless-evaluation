@@ -4,3 +4,6 @@
 [submodule "edgeside/nanos"]
 	path = edgeside/nanos
 	url = https://github.com/mgalalm/edge-unikernel-based-serverless-evaluation-edgeside-nanos.git
+[submodule "edgeside/openwhisk"]
+	path = edgeside/openwhisk
+	url = https://github.com/mgalalm/edge-unikernel-based-serverless-evaluation-edgeside-openwhisk.git
