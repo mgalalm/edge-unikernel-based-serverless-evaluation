@@ -1,0 +1,3 @@
+[submodule "clientside"]
+	path = clientside
+	url = https://github.com/mgalalm/edge-unikernel-based-serverless-evaluation-clientside.git
