@@ -1,3 +1,6 @@
 [submodule "clientside"]
 	path = clientside
 	url = https://github.com/mgalalm/edge-unikernel-based-serverless-evaluation-clientside.git
+[submodule "edgeside/nanos"]
+	path = edgeside/nanos
+	url = https://github.com/mgalalm/edge-unikernel-based-serverless-evaluation-edgeside-nanos.git
